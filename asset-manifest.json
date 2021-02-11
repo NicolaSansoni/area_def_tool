@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/area_def_tool/static/css/main.9397bd03.chunk.css",
+    "main.js": "/area_def_tool/static/js/main.b91547cc.chunk.js",
+    "main.js.map": "/area_def_tool/static/js/main.b91547cc.chunk.js.map",
+    "runtime-main.js": "/area_def_tool/static/js/runtime-main.e7ede021.js",
+    "runtime-main.js.map": "/area_def_tool/static/js/runtime-main.e7ede021.js.map",
+    "static/js/2.6d307971.chunk.js": "/area_def_tool/static/js/2.6d307971.chunk.js",
+    "static/js/2.6d307971.chunk.js.map": "/area_def_tool/static/js/2.6d307971.chunk.js.map",
+    "static/js/3.d237a4b2.chunk.js": "/area_def_tool/static/js/3.d237a4b2.chunk.js",
+    "static/js/3.d237a4b2.chunk.js.map": "/area_def_tool/static/js/3.d237a4b2.chunk.js.map",
+    "index.html": "/area_def_tool/index.html",
+    "static/css/main.9397bd03.chunk.css.map": "/area_def_tool/static/css/main.9397bd03.chunk.css.map",
+    "static/js/2.6d307971.chunk.js.LICENSE.txt": "/area_def_tool/static/js/2.6d307971.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7ede021.js",
+    "static/js/2.6d307971.chunk.js",
+    "static/css/main.9397bd03.chunk.css",
+    "static/js/main.b91547cc.chunk.js"
+  ]
+}
