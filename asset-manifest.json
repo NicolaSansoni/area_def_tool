@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/area_def_tool/static/css/main.803540e3.chunk.css",
-    "main.js": "/area_def_tool/static/js/main.733e1be0.chunk.js",
-    "main.js.map": "/area_def_tool/static/js/main.733e1be0.chunk.js.map",
+    "main.css": "/area_def_tool/static/css/main.f8cffbb4.chunk.css",
+    "main.js": "/area_def_tool/static/js/main.30dd1227.chunk.js",
+    "main.js.map": "/area_def_tool/static/js/main.30dd1227.chunk.js.map",
     "runtime-main.js": "/area_def_tool/static/js/runtime-main.c282d2ad.js",
     "runtime-main.js.map": "/area_def_tool/static/js/runtime-main.c282d2ad.js.map",
-    "static/js/2.952e0386.chunk.js": "/area_def_tool/static/js/2.952e0386.chunk.js",
-    "static/js/2.952e0386.chunk.js.map": "/area_def_tool/static/js/2.952e0386.chunk.js.map",
+    "static/js/2.9d0b5705.chunk.js": "/area_def_tool/static/js/2.9d0b5705.chunk.js",
+    "static/js/2.9d0b5705.chunk.js.map": "/area_def_tool/static/js/2.9d0b5705.chunk.js.map",
     "static/js/3.1773f919.chunk.js": "/area_def_tool/static/js/3.1773f919.chunk.js",
     "static/js/3.1773f919.chunk.js.map": "/area_def_tool/static/js/3.1773f919.chunk.js.map",
     "index.html": "/area_def_tool/index.html",
-    "static/css/main.803540e3.chunk.css.map": "/area_def_tool/static/css/main.803540e3.chunk.css.map",
-    "static/js/2.952e0386.chunk.js.LICENSE.txt": "/area_def_tool/static/js/2.952e0386.chunk.js.LICENSE.txt"
+    "static/css/main.f8cffbb4.chunk.css.map": "/area_def_tool/static/css/main.f8cffbb4.chunk.css.map",
+    "static/js/2.9d0b5705.chunk.js.LICENSE.txt": "/area_def_tool/static/js/2.9d0b5705.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c282d2ad.js",
-    "static/js/2.952e0386.chunk.js",
-    "static/css/main.803540e3.chunk.css",
-    "static/js/main.733e1be0.chunk.js"
+    "static/js/2.9d0b5705.chunk.js",
+    "static/css/main.f8cffbb4.chunk.css",
+    "static/js/main.30dd1227.chunk.js"
   ]
 }
