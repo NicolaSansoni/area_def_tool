@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/area_def_tool/static/css/main.f8cffbb4.chunk.css",
+    "main.css": "/area_def_tool/static/css/main.ac1565ca.chunk.css",
     "main.js": "/area_def_tool/static/js/main.8448eb97.chunk.js",
     "main.js.map": "/area_def_tool/static/js/main.8448eb97.chunk.js.map",
     "runtime-main.js": "/area_def_tool/static/js/runtime-main.c282d2ad.js",
@@ -10,13 +10,13 @@
     "static/js/3.1773f919.chunk.js": "/area_def_tool/static/js/3.1773f919.chunk.js",
     "static/js/3.1773f919.chunk.js.map": "/area_def_tool/static/js/3.1773f919.chunk.js.map",
     "index.html": "/area_def_tool/index.html",
-    "static/css/main.f8cffbb4.chunk.css.map": "/area_def_tool/static/css/main.f8cffbb4.chunk.css.map",
+    "static/css/main.ac1565ca.chunk.css.map": "/area_def_tool/static/css/main.ac1565ca.chunk.css.map",
     "static/js/2.9d0b5705.chunk.js.LICENSE.txt": "/area_def_tool/static/js/2.9d0b5705.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c282d2ad.js",
     "static/js/2.9d0b5705.chunk.js",
-    "static/css/main.f8cffbb4.chunk.css",
+    "static/css/main.ac1565ca.chunk.css",
     "static/js/main.8448eb97.chunk.js"
   ]
 }
